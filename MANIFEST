@@ -7,6 +7,7 @@ BUGS
 FAQ
 Changes
 SERVICE_POLICY
+LICENSE
 
 bin/razor-admin
 bin/razor-check
@@ -69,3 +70,4 @@ Razor2-Preproc-deHTMLxs/testit/html.8
 Razor2-Preproc-deHTMLxs/testit/html.8.deHTMLxs
 
 META.yml                                 Module meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
